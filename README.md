@@ -1,4 +1,4 @@
-# Minecraft server using google collab
-Very easy to set up, just follow the instructions
+# Serwer Minecraft przy użyciu google colab
+Bardzo łatwa konfiguracja, wystarczy postępować zgodnie z instrukcjami 
 
-using playit.gg for forward tunneling
+Używając playit.gg do przekierowania tunelu
